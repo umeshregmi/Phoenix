@@ -100,6 +100,16 @@
 
 
 
+# ram 83
+# shyam 65
+# ramesh 55
+# hari 20
+
+
+# fn = int(input('Enter first number '))
+# ln = int(input('Enter second number '))
+# print(f'The sum of {fn} and {ln} is {fn+ln}')
+
 
 
 
