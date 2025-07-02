@@ -1,0 +1,39 @@
+Write a program that takes a number as user input and print wether that number if odd or even.
+
+    sample 
+        input: 2
+        output: 2 is even 
+
+        input: 3
+        output: 3 is odd 
+
+
+Write a program that takes a string as user input and print wether that string is a palindrome or not (ingnore case sensitivity).
+    
+
+    
+
+
+
+
+
+
+
+write a function that takes a number as a parameter as returns True if the number if even else returns False
+
+write a function that takes a string as a parameter and returns the length of the string 
+
+
+write a function that takes a string as a parameter and returns the last character of the string.
+
+write a function that takes a string as a parameter and returns the reverse of the string.
+
+write a function that takes a string as a parameter and returns True if the string is palindrome else returns False ingore case sensitivity.
+
+write a function that takes a string as a parameter and returns the first vowel of the string.
+
+write a function that takes a string as a parameter and returns the first consonant of the string.
+
+write a function that takes a string as a parameter and returns the total number of vowels in the string.
+
+write a function that takes a string as a parameter and returns the total number of consonants in the string.
