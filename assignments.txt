@@ -37,3 +37,13 @@ write a function that takes a string as a parameter and returns the first conson
 write a function that takes a string as a parameter and returns the total number of vowels in the string.
 
 write a function that takes a string as a parameter and returns the total number of consonants in the string.
+
+
+
+write a lambda function  that takes a string as a parameter and returns the last character of the string.
+
+write a lambda function that takes a number as a parameter as returns True if the number if even else returns False
+
+write a lambda function that takes a string as a parameter and returns the reverse of the string.
+
+write a lambda function that takes a string as a parameter and returns True if the string is palindrome else returns False ingore case sensitivity.
